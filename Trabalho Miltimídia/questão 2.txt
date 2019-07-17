@@ -1,0 +1,5 @@
+Questão 2
+Local: Grandes cruzamentos de avenidas movimentadas.
+Problema:Filas enormes em alguns sentidos em cruzamentos pelo mal gerenciamento de tempo dos semáforos.
+
+Solução/Sugestão: Ultilizar visão computacional para identificar grandes filas na via e gerenciar os semafaros de acordo com a necessidade do transito, assim gerando um transito mais flúido.
